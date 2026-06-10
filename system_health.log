@@ -1,0 +1,15 @@
+==================================
+Report Generated: Wed Jun 10 22:29:58 IST 2026
+==================================
+CPU Load:
+
+Memory Usage:
+
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  183G  172G   11G  95% /
+D:                     98G   38G   60G  39% /d
+E:                     98G   37G   62G  38% /e
+F:                     98G   32G   66G  33% /f
+ALERT: Disk usage above 80%
+
